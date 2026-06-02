@@ -2,7 +2,7 @@
 <h4>A Data Analytics Case Study | SQL &middot; Power BI</h4>
 
 <h3>Background and Overview</h3>
-<p>Between May 2008 and November 2010, a Portuguese banking institution conducted a series of direct marketing campaigns(phone calls) </p>
+<p>Between May 2008 and November 2010, a Portuguese banking institution conducted a series of direct marketing campaigns(phone calls) to exisiting customers. </p>
 
 
 <h4>Citation:</h4>
