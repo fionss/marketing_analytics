@@ -37,6 +37,34 @@ These findings are clear, actionable and target resource allocation recommendati
 </p>
 
 <h3>Business Problem</h3>
+<h4>Industry Challenges in Direct Marketing Campaigns</h4>
+<p>Direct marketing campaigns particularly telephone or cellular based outreach is one of the more challengeing marketing methods today. Before any data is analyzed, these type of campaigns face structural problems that can make them ineffective and unsustainable.</p>
+<ul>
+  <li>Intrusiveness and customer resistance</li>
+  <li>Brand Damage</li>
+  <li>Regulatory and compliance risks</li>
+  <li>Wasted budget and low ROI</li>
+  <li>Data quality and hygeine</li>
+  <li>Agent rejection and morale</li>
+  <li>High agent turnover and operational costs</li>
+  <li>Brand damage</li>
+</ul>
+
+<h4>Analytical Problems This Project Adresses</h4>
+<p>These industry wide challenges share somthing in common, campaigns that do not use data effectively to guide who is contacted, when, how often and which channel. This analysis was designed to adress the gape and frame them around this four business questions.</p>
+<ol>
+  <li>When should campaigns run?</li>
+  <li>Who should be targeted first?</li>
+  <li>How should clients be targeted?</li>
+  <li>What role does the economy play?</li>
+</ol>
+
+<h4>Methodology</h4>
+<h5>Tools</h5>
+
+<h6>Tools</h6>   <h6>Purpose</h6>
+<hr>
+
 <p>Direct marketing campaigns require a lot of resources. With every call placed theres a cost, the agent time, operational cost and opportunity cost. Some other key problems with running a compaign like this </p>
 
 
