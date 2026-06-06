@@ -10,6 +10,16 @@
 <p>Of the 41,188 contacts made during the campaign period, 4,640 subscribed </p>
 During the campaign period 41,188 contacts were made and 4,640 subscribed, showing a conversion rate of 11.27%. The analysis revealed that the conversion rate varied across client segments, contact and economic conditions from as low as 3% and high as 42% depending on the factors involved.
 
+<ul>The analysis identified five primary patterns of conversion:
+  <li>Clients with a prior successful campaign outcome converted at 65.11%, almost 6 times the base conversion rate.</li>
+  <li>Call duration was the strongest behavioural predictor, the average convertors call time duration was 9 minutes while non-converters was 3.8 minutes.</li>
+  <li>Student and retired convertered more than any other job segment. The conversion rate in students is 31.4%, and in retired is 25.2% </li>
+  <li>Conversion rate declined with every additional contact attempt</li>
+  <li>Lower euribor interest rate increased conversion.</li>
+</ul>
+These findings are clear, actionable and target resource allocation recommendations that can make campaign more successful.
+</p>
+
 
 <h4>Citation:</h4>
   <ul>
