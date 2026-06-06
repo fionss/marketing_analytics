@@ -3,7 +3,7 @@
 
 <h3>Background and Overview</h3>
 <p>Between May 2008 and November 2010, a Portuguese banking institution conducted a series of direct marketing campaigns(phone calls) to exisiting customers. The goal of the campaign was to sell term deposit subscriptions - basically a fixed-term savings product where customers can lock in an amount of money for a period of time and receive interest rates in return.</p>
-<p>The campaign was running at an economically challenging time, the 2008 financial global crisis. This caused a huge drop in consumer confidence across the European continent and financial institutions were under a lot of pressure to increase and retain deposits. </p>
+<p>The campaign was running at an economically challenging time, the 2008 financial global crisis. This caused a huge drop in consumer confidence across the European continent and financial institutions were under a lot of pressure to increase and retain deposits. The goal is to increase the </p>
 <p>This project uses the UCI Bank Marketing dataset, it is one of the well studied real world marketing dataset in data analytics and it contains 41,188 client contact records.</p>
 
 <h3>Executive Summary</h3>
@@ -20,6 +20,9 @@ The analysis identified five primary patterns of conversion:
 </ul>
 These findings are clear, actionable and target resource allocation recommendations that can make campaign more successful.
 </p>
+
+<h3>Business Problem</h3>
+<p>Direct marketing campaigns require a lot of resources. With every call placed theres a cost, the agent time, operational cost and opportunity cost. Some other key problems with running a compaign like this </p>
 
 
 <h4>Citation:</h4>
