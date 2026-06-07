@@ -61,13 +61,41 @@ These findings are clear, actionable and target resource allocation recommendati
 
 <h4>Methodology</h4>
 <h5>Tools</h5>
+<ul>
+  <li>SQL Server: Database hosting and data storage.</li>
+  <li>SSMS(SQL Server Management Studio 21): Data ingestion, cleaning and analytical querying.</li>
+  <li>Power BI Desktop: Data modelling, DAX measures and interactive dashboards.</li>
+</ul>
 
-<h6>Tools</h6>   <h6>Purpose</h6>
-<hr>
+<h5></h5>
+
+<h4>Key Insights and Results</h4>
+<ol>
+  <li>11.27% Overall Conversion Rate</li>
+  <li>Strong seasonal patterns in conversion</li>
+  <li>Cellular outperforms telephone</li>
+  <li>Previous campaign success is a strong indicator of conversion</li>
+  <li>Diminishing returns set in quickly</li>
+  <li>Retired and student are the highest value</li>
+  <li></li>
+</ol>
+
+<h4>Dashboard Features</h4>
+
+<ol>
+  <li>Page 1 - Campaign Overview</li>
+  <li>Page 2 - Client Segmentation</li>
+  <li>Page 3 - Behavioural Insights</li>
+</ol>
+
+<h6>Interactive Features</h6>
+
+
+
 
 <p>Direct marketing campaigns require a lot of resources. With every call placed theres a cost, the agent time, operational cost and opportunity cost. Some other key problems with running a compaign like this </p>
 
-
+<h4>Dataset</h4>
 <h4>Citation:</h4>
   <ul>
     <li>[Moro et al., 2014] S. Moro, P. Cortez and P. Rita. A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems, In press, http://dx.doi.org/10.1016/j.dss.2014.03.001</li>
