@@ -90,12 +90,24 @@ These findings are clear, actionable and target resource allocation recommendati
 
 <h6>Interactive Features</h6>
 
+<h4>Business Recommendations</h4>
+<ol>
+  <li>Prioritise engagement with previously converted clients</li>
+  <li>Implement a contact cap of 3-5 calls per client</li>
+  <li>Concentrate campaign volume in March, September, October and December/li>
+  <li>Shift remaining telephone contacts to cellular</li>
+  <li>Reweight targeting towards retired, student and under 25/over 55 segments</li>
+  <li>Account for macroeconomic timing in campaign planning</li>
+  <li>Invest in data hygiene as a company prerequisite</li>
+</ol>
 
+<h4>Next Steps</h4>
+<p>With more time and resources, the project can be expanded upon</p>
+<ul>
+  <li>Add euribor rate analysis as an economic context visual, to show how interest rate movements correlate with conversion performance over time.</li>
+  <li>Build a client scoring model by using the strongest predictors(previous outcome, job type, age group, contact channel) to rank future contact lists.</li>
+</ul>
 
-
-<p>Direct marketing campaigns require a lot of resources. With every call placed theres a cost, the agent time, operational cost and opportunity cost. Some other key problems with running a compaign like this </p>
-
-<h4>Dataset</h4>
 <h4>Citation:</h4>
   <ul>
     <li>[Moro et al., 2014] S. Moro, P. Cortez and P. Rita. A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems, In press, http://dx.doi.org/10.1016/j.dss.2014.03.001</li>
