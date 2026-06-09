@@ -67,7 +67,10 @@ These findings are clear, actionable and target resource allocation recommendati
   <li>Power BI Desktop: Data modelling, DAX measures and interactive dashboards.</li>
 </ul>
 
-<h5></h5>
+<h5>Data Preparation and Modelling</h5>
+<ul>
+  <li></li>
+</ul>
 
 <h4>Key Insights and Results</h4>
 <ol>
