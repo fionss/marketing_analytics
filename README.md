@@ -36,7 +36,7 @@ The analysis identified five primary patterns of conversion:
 These findings are clear, actionable and target resource allocation recommendations that can make campaign more successful.
 </p>
 
-<h3>Business Problem</h3>
+<h3>Business Problems</h3>
 <h4>Industry Challenges in Direct Marketing Campaigns</h4>
 <p>Direct marketing campaigns particularly telephone or cellular based outreach is one of the more challengeing marketing methods today. Before any data is analyzed, these type of campaigns face structural problems that can make them ineffective and unsustainable.</p>
 <ul>
@@ -59,7 +59,7 @@ These findings are clear, actionable and target resource allocation recommendati
   <li>What role does the economy play?</li>
 </ol>
 
-<h4>Methodology</h4>
+<h3>Methodology</h3>
 <h5>Tools</h5>
 <ul>
   <li>SQL Server: Database hosting and data storage.</li>
