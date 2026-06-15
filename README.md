@@ -17,30 +17,29 @@
 
 
 <h3>Background and Overview</h3>
-<p>Between May 2008 and November 2010, a Portuguese banking institution conducted a series of direct marketing campaigns(phone calls) to exisiting customers. The goal of the campaign was to sell term deposit subscriptions - basically a fixed-term savings product where customers can lock in an amount of money for a period of time and receive interest rates in return.</p>
-<p>The campaign was running at an economically challenging time, the 2008 financial global crisis. This caused a huge drop in consumer confidence across the European continent and financial institutions were under a lot of pressure to increase and retain deposits. The goal is to increase the </p>
-<p>This project uses the UCI Bank Marketing dataset, it is one of the well studied real world marketing dataset in data analytics and it contains 41,188 client contact records.</p>
+<p>Between May 2008 and November 2010, a Portuguese banking institution conducted a series of direct marketing campaigns(phone calls) to exisiting customers. The goal of the campaign was to sell term deposit subscriptions, basically a fixed-term savings product where customers can lock in an amount of money for a period of time and receive interest rates in return.</p>
+<p>During this time was the 2008 financial global crisis, it was an economically challenging time. There was a lot of hysteria and this caused a huge drop in consumer confidence and a lot of financial institutions were under a lot of pressure to increase and retain deposits.</p>
+<p>This project uses the UCI Bank Marketing dataset, it is one of the well studied and researched real world marketing dataset in data analytics and it contains 41,188 client contact records.</p>
 
 <h3>Executive Summary</h3>
-<p>Of the 41,188 contacts made during the campaign period, 4,640 subscribed </p>
-During the campaign period 41,188 contacts were made and 4,640 subscribed, showing a conversion rate of 11.27%. The analysis revealed that the conversion rate varied across client segments, contact and economic conditions from as low as 3% and high as 42% depending on the factors involved.
+<p>During the campaign period 41,188 contacts were made and 4,640 subscribed, showing a conversion rate of 11.27%. The analysis revealed that the conversion rates varied across client segments, number of contact and economic conditions from as low as 3% and high as 42% depending on the factors involved. The analysis identified five primary patterns of conversion:</p>
 
-The analysis identified five primary patterns of conversion:
 <ul>
   <li>Clients with a prior successful campaign outcome converted at 65.11%, almost 6 times the base conversion rate.</li>
   <li>Call duration was the strongest behavioural predictor, the average convertors call time duration was 9 minutes while non-converters was 3.8 minutes.</li>
-  <li>Student and retired convertered more than any other job segment. The conversion rate in students is 31.4%, and in retired is 25.2% </li>
+  <li>Students and retired clients convertered more than any other job segment. The conversion rate in students is 31.4%, and with the retired is 25.2% </li>
   <li>Conversion rate declined with every additional contact attempt</li>
-  <li>Lower euribor interest rate increased conversion.</li>
+  <li>Lower euribor interest rate increased conversion. Clients contacted at rates below 1% converted at 26.49% vs 9.69% when rates were above 4%.</li>
 </ul>
-These findings are clear, actionable and target resource allocation recommendations that can make campaign more successful.
-</p>
+<p>These findings are clear and actionable. This can be a resource that can improve recommendations that can make the campaign more successful.</p>
 
 <h3>Business Problems</h3>
+
 <h4>Industry Challenges in Direct Marketing Campaigns</h4>
-<p>Direct marketing campaigns particularly telephone or cellular based outreach is one of the more challengeing marketing methods today. Before any data is analyzed, these type of campaigns face structural problems that can make them ineffective and unsustainable.</p>
+<p>Direct marketing campaigns particularly telephone or cellular based outreach is one of the more challengeing marketing methods today. Before any data is analyzed, these type of campaigns face structural problems that can make them ineffective and unsustainable:</p>
 <ul>
   <li>Intrusiveness and customer resistance</li>
+  <p>Cold calling is seen as one of the more intrusive forms of marketing, client </p>
   <li>Brand Damage</li>
   <li>Regulatory and compliance risks</li>
   <li>Wasted budget and low ROI</li>
