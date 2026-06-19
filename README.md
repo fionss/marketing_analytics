@@ -28,7 +28,7 @@
   <li>Conversion rate declined with every additional contact attempt</li>
   <li>Lower euribor interest rate increased conversion. Clients contacted at rates below 1% converted at 26.49% vs 9.69% when rates were above 4%.</li>
 </ul>
-<p>These findings are clear and actionable. This can be a resource that can improve recommendations that can make the campaign more successful.</p>
+<p>These findings are clear and actionable and can be used as a resource that can improve recommendations that can make the campaign more successful.</p>
 
 <h3>Business Problems</h3>
 
@@ -36,10 +36,13 @@
 <p>Direct marketing campaigns particularly telephone or cellular based outreach is one of the more challengeing marketing methods today. Before any data is analyzed, these type of campaigns face structural problems that can make them ineffective and unsustainable:</p>
 <ul>
   <li>Intrusiveness and customer resistance</li>
-  <p>Cold calling is seen as one of the more intrusive forms of marketing, client </p>
+  <p>Cold calling is seen as one of the more intrusive forms of marketing, clients may feel interrupted or pressured are likely not to convert but disengage completely. As consumer tolerance drops because of unsolicited calls declines, there isn't much receptivity to for more calls. </p>
   <li>Brand Damage</li>
+  <p>Repeated or poorly timed contact can damage the institution's reputation. A client who is contacted too frequently, at the wrong time or through an unwelcome channel may develop a negative association with the institution. For a financial institution where trust is a big part of the product, this is highly risky.</p>
   <li>Regulatory and compliance risks</li>
+  <p>Financial institutions face intense regulatory oversight when conducting direct marketing. Contact frequency restrictions, legislation, data protection, and opt-out requirements create obligations that may change how campaigns can be run. Campaigns that ignore regulations will not only face conversion failure but potential chance of fines from regulators.</p>
   <li>Wasted budget and low ROI</li>
+  <p></p>
   <li>Data quality and hygeine</li>
   <li>Agent rejection and morale</li>
   <li>High agent turnover and operational costs</li>
