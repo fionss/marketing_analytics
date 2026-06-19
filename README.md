@@ -1,5 +1,5 @@
 <h2>Bank Marketing Campaign Analysis</h2>
-<h4>A Data Analytics Case Study | SQL &bull Power BI</h4>
+<h4>A Data Analytics Case Study | SQL &bull; Power BI</h4>
 
 
 <h3><b>Table of Contents</b></h3>
