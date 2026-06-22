@@ -42,7 +42,7 @@
   <li>Regulatory and compliance risks</li>
   <p>Financial institutions face intense regulatory oversight when conducting direct marketing. Contact frequency restrictions, legislation, data protection, and opt-out requirements create obligations that may change how campaigns can be run. Campaigns that ignore regulations will not only face conversion failure but potential chance of fines from regulators.</p>
   <li>Wasted budget and low ROI</li>
-  <p></p>
+  <p>Poor targeting </p>
   <li>Data quality and hygeine</li>
   <li>Agent rejection and morale</li>
   <li>High agent turnover and operational costs</li>
