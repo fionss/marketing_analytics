@@ -75,7 +75,7 @@
 <ul>
   <li>Data ingestion - The raw dataset was loaded into SQL Server into a raw schema in marketing_analytics database. Column data types were verified and corrected.</li>
   <li>Data cleaning - A clean table raw.bank_marketing_clean was created from the raw table.</li>
-  <li>Analysis - Nine SQL queries were written: Overall Conversion Rate, Conversion Rate by Month, Conversion Rate by Contact Channel, Previous Campaign Outcome Impact, Number of Contacts vs Conversion Rate, Conversion Rate by Job Type,  Conversion Rate by Educational Level, Conversion Rate by Age Group, Converter vs Non-Converter Profile
+  <li>Analysis - Nine SQL queries were written: Overall conversion rate, conversion rate by month, conversion rate by contact channel, previous campaign outcome impact, number of contacts vs conversion rate, conversion rate by job type,  conversion rate by educational level, conversion rate by age group, converter vs on-Converter Profile
 .</li>
   
 </ul>
