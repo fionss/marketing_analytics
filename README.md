@@ -66,12 +66,30 @@
 <h3>Methodology</h3>
 <h5>Tools and Purpose</h5>
 <ul>
-  <li>SQL Server</li>
+  <li>SQL Server - Database hosting, data storage.</li>
+  <li>SSMS (SQL Server Management Studio) - Data ingestion, cleaning and analytical querying.</li>
+  <li>Power BI - Data modelling, DAX measures and interactive dashboard.</li>
 </ul>
 
 <h5>Data Preparation and Modelling</h5>
 <ul>
-  <li></li>
+  <li>Data ingestion - The raw dataset was loaded into SQL Server into a raw schema in marketing_analytics database. Column data types were verified and corrected.</li>
+  <li>Data cleaning - A clean table raw.bank_marketing_clean was created from the raw table.</li>
+  <li>Analysis - Nine SQL queries were written</li>
+
+Query            Focus
+<hr>
+1                Overall Conversion Rate
+2                Conversion Rate by Month
+3                Conversion Rate by Contact Channel
+4                Previous Campaign Outcome Impact
+5                Number of Contacts vs Conversion Rate
+6                Conversion Rate by Job Type
+7                Conversion Rate by Educational Level
+8                Conversion Rate by Age Group
+9                Converter vs Non-Converter Profile
+
+  
 </ul>
 
 <h4>Key Insights and Results</h4>
