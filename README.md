@@ -42,29 +42,27 @@
   <li>Regulatory and compliance risks</li>
   <p>Financial institutions face intense regulatory oversight when conducting direct marketing. Contact frequency restrictions, legislation, data protection, and opt-out requirements create obligations that may change how campaigns can be run. Campaigns that ignore regulations will not only face conversion failure but potential chance of fines from regulators.</p>
   <li>Wasted budget and low ROI</li>
-  <p>Poor targeting </p>
+  <p>Poor targeting can mean majorty of campaign spend is directed at clients who were never likely to convert. When the contact is high but the conversion rates are low, the cost of acquisition is unsustainable. Every cost made to unresponsive client is more cost with no return.</p>
   <li>Data quality and hygeine</li>
+  <p>The effectiveness of a campaign is heavily affected by the quality of its data. Things like missing values, outdated contact details, incomplete records all affect accuracy in targeting. Campaigns built on poor data produce poor results regardless of the outreach strategy.</p>
   <li>Agent rejection and morale</li>
+  <p>A high volume of rejection can have a direct human cost. Call center agents are dealing with things like constant non-conversions, hostile responses, stress and disengagement. This leads to high turnover rates.</p>
   <li>High agent turnover and operational costs</li>
+  <p>The combination of rejection, pressure to perform, repetitive work makes direct marketing role one of the highest turnover positions. Every agent that leaves represents training investment, recruitment costs and a productivity gap.</p>
   <li>Brand damage</li>
+  <p>There's an erosion of brand trust when clients feel over-contacted and misunderstood the trust diminishes. In banking where long term client relationships are the foundation of revenue, the pressure of short term campaigns can damage trust and that isn't a good trade-off.</p>
 </ul>
 
 <h4>Analytical Problems This Project Adresses</h4>
-<p>These industry wide challenges share somthing in common, campaigns that do not use data effectively to guide who is contacted, when, how often and which channel. This analysis was designed to adress the gape and frame them around this four business questions.</p>
+<p>There are challenges associated with campaigns like this, not using data effectively to guide who is contacted, when, how often, and through which channel. This analysis adresses the gap and frames it around four business questions.</p>
+
 <ol>
   <li>When should campaigns run?</li>
+  <p>Are there periods or months where clients are more likely to subscribe? Can the bank concentrate on doing more campaign </p>
   <li>Who should be targeted first?</li>
   <li>How should clients be targeted?</li>
   <li>What role does the economy play?</li>
 </ol>
-
-<h3>Methodology</h3>
-<h5>Tools</h5>
-<ul>
-  <li>SQL Server: Database hosting and data storage.</li>
-  <li>SSMS(SQL Server Management Studio 21): Data ingestion, cleaning and analytical querying.</li>
-  <li>Power BI Desktop: Data modelling, DAX measures and interactive dashboards.</li>
-</ul>
 
 <h5>Data Preparation and Modelling</h5>
 <ul>
