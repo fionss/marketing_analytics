@@ -58,11 +58,16 @@
 
 <ol>
   <li>When should campaigns run?</li>
-  <p>Are there periods or months where clients are more likely to subscribe? Can the bank concentrate on doing more campaign </p>
   <li>Who should be targeted first?</li>
   <li>How should clients be targeted?</li>
   <li>What role does the economy play?</li>
 </ol>
+
+<h3>Methodology</h3>
+<h5>Tools and Purpose</h5>
+<ul>
+  <li>SQL Server</li>
+</ul>
 
 <h5>Data Preparation and Modelling</h5>
 <ul>
@@ -70,22 +75,44 @@
 </ul>
 
 <h4>Key Insights and Results</h4>
-<ol>
-  <li>11.27% Overall Conversion Rate</li>
+<ul>
+  <li>Insight 1-11.27% Overall Conversion Rate</li>
+  <p>With a total </p>
+  
   <li>Strong seasonal patterns in conversion</li>
   <li>Cellular outperforms telephone</li>
   <li>Previous campaign success is a strong indicator of conversion</li>
   <li>Diminishing returns set in quickly</li>
   <li>Retired and student are the highest value</li>
   <li></li>
-</ol>
+</ul>
 
 <h4>Dashboard Features</h4>
+<p>The Power BI dashboard is structured across three pages to tell an analytical story.</p>
 
 <ol>
   <li>Page 1 - Campaign Overview</li>
+  <ul>
+    <li>KPI Cards: Total Contacts(41K), total conversions(4,640), conversion rate(11.27%), non-conversion rate(88.73%)</li>
+    <li>Line Chart: Conversion rate by month. Seasonal performance is visible.</li>
+    <li>Donut Chart: Overall converted vs non-converted.</li>
+    <li>Clustered Bar Chart: Conversion rate and contact by channel.</li>
+  </ul>
+
   <li>Page 2 - Client Segmentation</li>
+  <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ul>
+
+  
   <li>Page 3 - Behavioural Insights</li>
+  <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ul>
 </ol>
 
 <h6>Interactive Features</h6>
