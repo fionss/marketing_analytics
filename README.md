@@ -7,7 +7,6 @@
   <li>Executive Summary</li>
   <li>Business Problems</li>
   <li>Methodology</li>
-  <li>Skills Demonstrated</li>
   <li>Key Insights and Results</li>
   <li>Dashboard Features</li>
   <li>Business Recommendations</li>
@@ -78,7 +77,7 @@
 .</li>  
 </ul>
 
-<h4>Key Insights and Results</h4>
+<h3>Key Insights and Results</h3>
 <ul>
   <li>Insight 1-11.27% Overall Conversion Rate</li>
   <li>Strong seasonal patterns in conversion</li>
