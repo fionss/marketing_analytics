@@ -120,7 +120,7 @@
   </ul>
 </ol>
 
-<h4>Business Recommendations</h4>
+<h3>Business Recommendations</h3>
 <ol>
   <li>Prioritise engagement with previously converted clients</li>
   <li>Implement a contact cap of 3-5 calls per client</li>
