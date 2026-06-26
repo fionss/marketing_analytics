@@ -80,11 +80,11 @@
 <h3>Key Insights and Results</h3>
 <ul>
   <li>Insight 1-11.27% Overall Conversion Rate</li>
-  <li>Strong seasonal patterns in conversion</li>
-  <li>Cellular outperforms telephone</li>
-  <li>Previous campaign success is a strong indicator of conversion</li>
-  <li>Diminishing returns set in quickly</li>
-  <li>Retired and student are the highest value</li>
+  <li>Insight 2-Strong seasonal patterns in conversion</li>
+  <li>Insight 3-Cellular outperforms telephone</li>
+  <li>Insight 4-Previous campaign success is a strong indicator of conversion</li>
+  <li>Insight 5-Diminishing returns set in quickly</li>
+  <li>Insight 6-Retired and student are the highest value</li>
 </ul>
 
 <h3>Dashboard Features</h3>
@@ -102,8 +102,8 @@
   <li>Page 2 - Client Segmentation</li>
   <ul>
     <li>Clustered bar chart: Conversion rate by job type.</li>
-    <li>Clustered bar chart: Conversion rate by education</li>
-    <li>Column chart: </li>
+    <li>Clustered bar chart: Conversion rate by education.</li>
+    <li>Column chart: Conversion rate by age group.</li>
   </ul>
   
   <li>Page 3 - Behavioural Insights</li>
