@@ -31,7 +31,6 @@
 <p>These findings are clear and actionable and can be used as a resource that can improve recommendations that can make the campaign more successful.</p>
 
 <h3>Business Problems</h3>
-
 <h4>Industry Challenges in Direct Marketing Campaigns</h4>
 <p>Direct marketing campaigns particularly telephone or cellular based outreach is one of the more challengeing marketing methods today. Before any data is analyzed, these type of campaigns face structural problems that can make them ineffective and unsustainable:</p>
 <ul>
