@@ -85,10 +85,9 @@
   <li>Previous campaign success is a strong indicator of conversion</li>
   <li>Diminishing returns set in quickly</li>
   <li>Retired and student are the highest value</li>
-  <li></li>
 </ul>
 
-<h4>Dashboard Features</h4>
+<h3>Dashboard Features</h3>
 <p>The Power BI dashboard is structured across three pages to tell an analytical story.</p>
 
 <ol>
