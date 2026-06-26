@@ -79,12 +79,12 @@
 
 <h3>Key Insights and Results</h3>
 <ul>
-  <li>Insight 1-11.27% Overall Conversion Rate</li>
-  <li>Insight 2-Strong seasonal patterns in conversion</li>
-  <li>Insight 3-Cellular outperforms telephone</li>
-  <li>Insight 4-Previous campaign success is a strong indicator of conversion</li>
-  <li>Insight 5-Diminishing returns set in quickly</li>
-  <li>Insight 6-Retired and student are the highest value</li>
+  <li>Insight 1-11.27% Overall conversion rate.</li>
+  <li>Insight 2-Strong seasonal patterns in conversion.</li>
+  <li>Insight 3-Cellular outperforms telephone.</li>
+  <li>Insight 4-Previous campaign success is a strong indicator of conversion.</li>
+  <li>Insight 5-Diminishing returns set in quickly.</li>
+  <li>Insight 6-Retired and student are the highest value.</li>
 </ul>
 
 <h3>Dashboard Features</h3>
