@@ -76,8 +76,7 @@
   <li>Data ingestion - The raw dataset was loaded into SQL Server into a raw schema in marketing_analytics database. Column data types were verified and corrected.</li>
   <li>Data cleaning - A clean table raw.bank_marketing_clean was created from the raw table.</li>
   <li>Analysis - Nine SQL queries were written: Overall conversion rate, conversion rate by month, conversion rate by contact channel, previous campaign outcome impact, number of contacts vs conversion rate, conversion rate by job type,  conversion rate by educational level, conversion rate by age group, converter vs on-Converter Profile
-.</li>
-  
+.</li>  
 </ul>
 
 <h4>Key Insights and Results</h4>
@@ -99,29 +98,32 @@
 <ol>
   <li>Page 1 - Campaign Overview</li>
   <ul>
-    <li>KPI Cards: Total Contacts(41K), total conversions(4,640), conversion rate(11.27%), non-conversion rate(88.73%)</li>
-    <li>Line Chart: Conversion rate by month. Seasonal performance is visible.</li>
-    <li>Donut Chart: Overall converted vs non-converted.</li>
-    <li>Clustered Bar Chart: Conversion rate and contact by channel.</li>
+    <li>KPI cards: Total Contacts(41K), total conversions(4,640), conversion rate(11.27%), non-conversion rate(88.73%)</li>
+    <li>Line chart: Conversion rate by month. Seasonal performance is visible.</li>
+    <li>Donut chart: Overall converted vs non-converted.</li>
+    <li>Clustered bar chart: Conversion rate and contact by channel.</li>
   </ul>
 
   <li>Page 2 - Client Segmentation</li>
   <ul>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Clustered bar chart: Conversion rate by job type.</li>
+    <li>Clustered bar chart: Conversion rate by education</li>
+    <li>Column chart: </li>
   </ul>
-
   
   <li>Page 3 - Behavioural Insights</li>
   <ul>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Bar chart: Previous campaign outcome vs conversion rate. The 65% success bar stands out.</li>
+    <li>Line chart: Conversion rate across number of contact attempts. </li>
+    <li>Comparison table: Converter vs non-converter average profile showing age, cull duration, number of contacts and euribor rates.</li>
+  </ul>
+
+  <li>Interactive Features</li>
+  <ul>
+    <li>Slicers across all pages: month, contact channel, job, education</li>
+    <li>All visuals respond to slicer selections</li>
   </ul>
 </ol>
-
-<h6>Interactive Features</h6>
 
 <h4>Business Recommendations</h4>
 <ol>
