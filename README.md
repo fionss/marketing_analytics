@@ -82,8 +82,6 @@
 <h4>Key Insights and Results</h4>
 <ul>
   <li>Insight 1-11.27% Overall Conversion Rate</li>
-  <p>With a total </p>
-  
   <li>Strong seasonal patterns in conversion</li>
   <li>Cellular outperforms telephone</li>
   <li>Previous campaign success is a strong indicator of conversion</li>
