@@ -15,7 +15,7 @@
 
 <h3>Background and Overview</h3>
 <p>Between May 2008 and November 2010, a Portuguese banking institution conducted a series of direct marketing campaigns(phone calls) to exisiting customers. The goal of the campaign was to sell term deposit subscriptions, basically a fixed-term savings product where customers can lock in an amount of money for a period of time and receive interest rates in return.</p>
-<p>During this time was the 2008 financial global crisis, an economically challenging time. There was a lot of hysteria and this caused a huge drop in consumer confidence and a lot of financial institutions were under a lot of pressure to increase and retain deposits.</p>
+<p>During that period was the 2008 financial global crisis, an economically challenging time. There was a lot of hysteria and this caused a huge drop in consumer confidence and a lot of financial institutions were under a lot of pressure to increase and retain deposits.</p>
 <p>This project uses the UCI Bank Marketing dataset, it is one of the well studied and researched real world marketing dataset in data analytics and it contains 41,188 client contact records.</p>
 
 <h3>Executive Summary</h3>
