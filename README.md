@@ -115,8 +115,8 @@
 
   <li><b>Interactive Features</b></li>
   <ul>
-    <li>Slicers across all pages: month, contact channel, job, education</li>
-    <li>All visuals respond to slicer selections</li>
+    <li>Slicers across all pages: month, contact channel, job, education.</li>
+    <li>All visuals respond to slicer selections.</li>
   </ul>
 </ol>
 
