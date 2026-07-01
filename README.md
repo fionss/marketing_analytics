@@ -3,14 +3,14 @@
 
 <h3><b>Table of Contents</b></h3>
 <ol>
-  <li>Background and Overview</li>
-  <li>Executive Summary</li>
-  <li>Business Problems</li>
-  <li>Methodology</li>
-  <li>Key Insights and Results</li>
-  <li>Dashboard Features</li>
-  <li>Business Recommendations</li>
-  <li>Next Steps</li>
+  <li>Background and Overview.</li>
+  <li>Executive Summary.</li>
+  <li>Business Problems.</li>
+  <li>Methodology.</li>
+  <li>Key Insights and Results.</li>
+  <li>Dashboard Features.</li>
+  <li>Business Recommendations.</li>
+  <li>Next Steps.</li>
 </ol>
 
 <h3>Background and Overview</h3>
