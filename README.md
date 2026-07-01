@@ -91,7 +91,7 @@
 <p>The Power BI dashboard is structured across three pages to tell an analytical story.</p>
 
 <ol>
-  <li>Page 1 - Campaign Overview</li>
+  <li><b>Page 1 - Campaign Overview</b></li>
   <ul>
     <li>KPI cards: Total Contacts(41K), total conversions(4,640), conversion rate(11.27%), non-conversion rate(88.73%)</li>
     <li>Line chart: Conversion rate by month. Seasonal performance is visible.</li>
@@ -99,21 +99,21 @@
     <li>Clustered bar chart: Conversion rate and contact by channel.</li>
   </ul>
 
-  <li>Page 2 - Client Segmentation</li>
+  <li><b>Page 2 - Client Segmentation</b></li>
   <ul>
     <li>Clustered bar chart: Conversion rate by job type.</li>
     <li>Clustered bar chart: Conversion rate by education.</li>
     <li>Column chart: Conversion rate by age group.</li>
   </ul>
   
-  <li>Page 3 - Behavioural Insights</li>
+  <li><b>Page 3 - Behavioural Insights</b></li>
   <ul>
     <li>Bar chart: Previous campaign outcome vs conversion rate. The 65% success bar stands out.</li>
     <li>Line chart: Conversion rate across number of contact attempts. </li>
     <li>Comparison table: Converter vs non-converter average profile showing age, cull duration, number of contacts and euribor rates.</li>
   </ul>
 
-  <li>Interactive Features</li>
+  <li><b>Interactive Features</b></li>
   <ul>
     <li>Slicers across all pages: month, contact channel, job, education</li>
     <li>All visuals respond to slicer selections</li>
