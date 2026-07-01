@@ -15,11 +15,11 @@
 
 <h3>Background and Overview</h3>
 <p>Between May 2008 and November 2010, a Portuguese banking institution conducted a series of direct marketing campaigns(phone calls) to exisiting customers. The goal of the campaign was to sell term deposit subscriptions, basically a fixed-term savings product where customers can lock in an amount of money for a period of time and receive interest rates in return.</p>
-<p>During that period was the 2008 financial global crisis, an economically challenging time. There was a lot of hysteria and this caused a huge drop in consumer confidence and a lot of financial institutions were under a lot of pressure to increase and retain deposits.</p>
-<p>This project uses the UCI Bank Marketing dataset, it is one of the well studied and researched real world marketing dataset in data analytics and it contains 41,188 client contact records.</p>
+<p>During that period was the 2008 financial global crisis, an economically challenging time. There was a lot of hysteria and this caused a huge drop in consumer confidence so a lot of financial institutions were under a lot of pressure to increase and retain deposits.</p>
+<p>This project uses the UCI Bank Marketing dataset, it is one of the well studied and researched real world marketing dataset in data analytics, it contains 41,188 client contact records.</p>
 
 <h3>Executive Summary</h3>
-<p>During the campaign period 41,188 contacts were made and 4,640 subscribed, showing an overall conversion rate of 11.27%. The analysis revealed that the conversion rates varied across client segments, number of contact and economic conditions ranging from as low as 3% and high as 42% depending on the factors involved. The analysis identified five primary patterns of conversion:</p>
+<p>During the campaign period 41,188 contacts were made and 4,640 subscribed, showing an overall conversion rate of 11.27%. The analysis revealed that the conversion rates varied across client segments, number of contact and economic conditions ranging from as low as 3% and high as 42% depending on the factors involved. The analysis identified five primary drivers of conversion:</p>
 <ul>
   <li>Clients with a prior successful campaign outcome converted at 65.11%, almost 6 times the base conversion rate.</li>
   <li>Call duration was the strongest behavioural predictor, the average convertors call time duration was 9 minutes while non-converters was 3.8 minutes.</li>
