@@ -33,7 +33,7 @@
 <h4>Industry Challenges in Direct Marketing Campaigns</h4>
 <p>Direct marketing campaigns particularly telephone or cellular based outreach is one of the more challengeing marketing methods today. Before any data is analyzed, these type of campaigns face structural problems that can make them ineffective and unsustainable:</p>
 <ul>
-  <li>Intrusiveness and customer resistance</li>
+  <li><b>Intrusiveness and customer resistance</b></li>
   <p>Cold calling is seen as one of the more intrusive forms of marketing, clients may feel interrupted or pressured are likely not to convert but disengage completely. As consumer tolerance drops because of unsolicited calls declines, there isn't much receptivity to for more calls. </p>
   <li>Brand Damage</li>
   <p>Repeated or poorly timed contact can damage the institution's reputation. A client who is contacted too frequently, at the wrong time or through an unwelcome channel may develop a negative association with the institution. For a financial institution where trust is a big part of the product, this is highly risky.</p>
