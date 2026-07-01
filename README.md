@@ -35,19 +35,19 @@
 <ul>
   <li><b>Intrusiveness and customer resistance</b></li>
   <p>Cold calling is seen as one of the more intrusive forms of marketing, clients may feel interrupted or pressured are likely not to convert but disengage completely. As consumer tolerance drops because of unsolicited calls declines, there isn't much receptivity to for more calls. </p>
-  <li>Brand Damage</li>
+  <li><b>Brand Damage</b></li>
   <p>Repeated or poorly timed contact can damage the institution's reputation. A client who is contacted too frequently, at the wrong time or through an unwelcome channel may develop a negative association with the institution. For a financial institution where trust is a big part of the product, this is highly risky.</p>
-  <li>Regulatory and compliance risks</li>
+  <li><b>Regulatory and compliance risks</b></li>
   <p>Financial institutions face intense regulatory oversight when conducting direct marketing. Contact frequency restrictions, legislation, data protection, and opt-out requirements create obligations that may change how campaigns can be run. Campaigns that ignore regulations will not only face conversion failure but potential chance of fines from regulators.</p>
-  <li>Wasted budget and low ROI</li>
+  <li><b>Wasted budget and low ROI</b></li>
   <p>Poor targeting can mean majorty of campaign spend is directed at clients who were never likely to convert. When the contact is high but the conversion rates are low, the cost of acquisition is unsustainable. Every cost made to unresponsive client is more cost with no return.</p>
-  <li>Data quality and hygeine</li>
+  <li><b>Data quality and hygeine</b></li>
   <p>The effectiveness of a campaign is heavily affected by the quality of its data. Things like missing values, outdated contact details, incomplete records all affect accuracy in targeting. Campaigns built on poor data produce poor results regardless of the outreach strategy.</p>
-  <li>Agent rejection and morale</li>
+  <li><b>Agent rejection and morale</b></li>
   <p>A high volume of rejection can have a direct human cost. Call center agents are dealing with things like constant non-conversions, hostile responses, stress and disengagement. This leads to high turnover rates.</p>
-  <li>High agent turnover and operational costs</li>
+  <li><b>High agent turnover and operational costs</b></li>
   <p>The combination of rejection, pressure to perform, repetitive work makes direct marketing role one of the highest turnover positions. Every agent that leaves represents training investment, recruitment costs and a productivity gap.</p>
-  <li>Brand damage</li>
+  <li><b>Brand damage</b></li>
   <p>There's an erosion of brand trust when clients feel over-contacted and misunderstood the trust diminishes. In banking where long term client relationships are the foundation of revenue, the pressure of short term campaigns can damage trust and that isn't a good trade-off.</p>
 </ul>
 
