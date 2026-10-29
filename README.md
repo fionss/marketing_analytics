@@ -53,12 +53,6 @@
 </ol>
 
 <h3>Methodology</h3>
-<h5>Tools and Purpose</h5>
-<ul>
-  <li>SQL Server - Database hosting, data storage.</li>
-  <li>SSMS (SQL Server Management Studio) - Data ingestion, cleaning and analytical querying.</li>
-  <li>Power BI - Data modelling, DAX measures and interactive dashboard.</li>
-</ul>
 
 <h5>Data Preparation and Modelling</h5>
 <ul>
