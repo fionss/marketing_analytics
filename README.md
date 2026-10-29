@@ -17,6 +17,9 @@
 </ul>
 <p>These findings are clear and actionable and can be used as a resource that can improve recommendations that can make the campaign more successful.</p>
 
+<img width="472" height="65" alt="Screenshot 2026-10-29 181139" src="https://github.com/user-attachments/assets/ef93a319-1a8a-4527-a05e-0ff0e9479fac" />
+
+
 <h3>Business Problems</h3>
 <h4>Industry Challenges in Direct Marketing Campaigns</h4>
 <p>Direct marketing campaigns particularly telephone or cellular based outreach is one of the more challengeing marketing methods today. Before any data is analyzed, these type of campaigns face structural problems that can make them ineffective and unsustainable:</p>
