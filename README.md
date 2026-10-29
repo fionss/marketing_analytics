@@ -1,18 +1,6 @@
 <h2>Bank Marketing Campaign Analysis</h2>
 <h4>A Data Analytics Case Study | SQL &bull; Power BI</h4>
 
-<h3><b>Table of Contents</b></h3>
-<ol>
-  <li>Background and Overview.</li>
-  <li>Executive Summary.</li>
-  <li>Business Problems.</li>
-  <li>Methodology.</li>
-  <li>Key Insights and Results.</li>
-  <li>Dashboard Features.</li>
-  <li>Business Recommendations.</li>
-  <li>Next Steps.</li>
-</ol>
-
 <h3>Background and Overview</h3>
 <p>Between May 2008 and November 2010, a Portuguese banking institution conducted a series of direct marketing campaigns(phone calls) to exisiting customers. The goal of the campaign was to sell term deposit subscriptions, basically a fixed-term savings product where customers can lock in an amount of money for a period of time and receive interest rates in return.</p>
 <p>During that period was the 2008 financial global crisis, an economically challenging time. There was a lot of hysteria and this caused a huge drop in consumer confidence so a lot of financial institutions were under a lot of pressure to increase and retain deposits.</p>
