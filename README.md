@@ -17,7 +17,7 @@
 </ul>
 <p>These findings are clear and actionable and can be used as a resource that can improve recommendations that can make the campaign more successful.</p>
 
-<img width="600" height="170" alt="Screenshot 2026-10-29 181139" src="https://github.com/user-attachments/assets/ef93a319-1a8a-4527-a05e-0ff0e9479fac" />
+<img width="600" height="150" alt="Screenshot 2026-10-29 181139" src="https://github.com/user-attachments/assets/ef93a319-1a8a-4527-a05e-0ff0e9479fac" />
 
 
 <h3>Business Problems</h3>
