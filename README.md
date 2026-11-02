@@ -42,6 +42,9 @@
   <p>There's an erosion of brand trust when clients feel over-contacted and misunderstood the trust diminishes. In banking where long term client relationships are the foundation of revenue, the pressure of short term campaigns can damage trust and that isn't a good trade-off.</p>
 </ul>
 
+<img width="233" height="134" alt="Screenshot 2026-11-02 173558" src="https://github.com/user-attachments/assets/44068f04-6398-46b2-a5e0-e8be495e7ab4" />
+
+
 <h4>Analytical Problems This Project Adresses</h4>
 <p>There are challenges associated with campaigns like this, not using data effectively to guide who is contacted, when, how often, and through which channel. This analysis adresses the gap and frames it around four business questions.</p>
 
