@@ -44,8 +44,6 @@
 
 <img width="353" height="154" alt="Screenshot 2026-11-02 173558" src="https://github.com/user-attachments/assets/44068f04-6398-46b2-a5e0-e8be495e7ab4" />
 
-<img width="428" height="56" alt="Screenshot 2026-11-02 173620" src="https://github.com/user-attachments/assets/01648564-7972-436d-9af2-c534640917a9" />
-
 <h4>Analytical Problems This Project Adresses</h4>
 <p>There are challenges associated with campaigns like this, not using data effectively to guide who is contacted, when, how often, and through which channel. This analysis adresses the gap and frames it around four business questions.</p>
 
@@ -75,6 +73,8 @@
   <li><b>Insight 5</b>-Diminishing returns set in quickly.</li>
   <li><b>Insight 6</b>-Retired and student are the highest value.</li>
 </ul>
+
+<img width="428" height="56" alt="Screenshot 2026-11-02 173620" src="https://github.com/user-attachments/assets/01648564-7972-436d-9af2-c534640917a9" />
 
 <h3>Dashboard Features</h3>
 <p>The Power BI dashboard is structured across three pages to tell an analytical story.</p>
