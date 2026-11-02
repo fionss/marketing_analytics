@@ -74,7 +74,7 @@
   <li><b>Insight 6</b>-Retired and student are the highest value.</li>
 </ul>
 
-<img width="428" height="56" alt="Screenshot 2026-11-02 173620" src="https://github.com/user-attachments/assets/01648564-7972-436d-9af2-c534640917a9" />
+<img width="458" height="156" alt="Screenshot 2026-11-02 173620" src="https://github.com/user-attachments/assets/01648564-7972-436d-9af2-c534640917a9" />
 
 <h3>Dashboard Features</h3>
 <p>The Power BI dashboard is structured across three pages to tell an analytical story.</p>
