@@ -116,6 +116,8 @@
   <li>Invest in data hygiene as a company prerequisite.</li>
 </ol>
 
+<img width="463" height="236" alt="Screenshot 2026-11-02 172902" src="https://github.com/user-attachments/assets/25380e03-5184-4062-9f3d-439efdd1ead9" />
+
 <h4>Next Steps</h4>
 <p>With more time and resources, the project can be expanded upon</p>
 <ul>
