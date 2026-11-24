@@ -113,7 +113,7 @@
 <ol>
   <li>Prioritise engagement with previously converted clients.</li>
   <li>Implement a contact cap of 3-5 calls per client.</li>
-  <li>Concentrate campaign volume in March, September, October and December./li>
+  <li>Concentrate campaign volume in March, September, October and December.</li>
   <li>Shift remaining telephone contacts to cellular.</li>
   <li>Reweight targeting towards retired, student and under 25/over 55 segments.</li>
   <li>Account for macroeconomic timing in campaign planning.</li>
